@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TarakRam1818?tab=repositories](https://github.com/TarakRam1818?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/JTarakRam?tab=repositories](https://github.com/JTarakRam?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.analyticsvidhya.com/blog/author/tarak_ram/](https://www.analyticsvidhya.com/blog/author/tarak_ram/)
 
-- 💬 Ask me about **Python, Machine leaning**
+- 💬 Ask me about **Python, Machine leaning and Data Science**
 
 - 📫 How to reach me **jujjurutarakram1818@gmail.com**
 
