@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/tarakram18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarakram18" height="30" width="40" /></a>
 <a href="https://hashnode.com/@tarakram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tarakram" height="30" width="40" /></a>
 <a href="https://medium.com/@jtarakram6699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jtarakram6699" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwhhvihbvtf70jdewrrfxyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwhhvihbvtf70jdewrrfxyg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@themlhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@themlhub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
