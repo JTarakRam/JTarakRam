@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Tarak Ram</h1>
-<h3 align="center">I am Machine learning Engineer.</h3>
+<h3 align="center">Machine Learning Engineer & Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarakram1818&label=Profile%20views&color=0e75b6&style=flat" alt="tarakram1818" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JTarakram&label=Profile%20views&color=0e75b6&style=flat" alt="JTarakRam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarakram1818" alt="tarakram1818" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JTarakRam" alt="JTarakRam" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JTarakRam?tab=repositories](https://github.com/JTarakRam?tab=repositories)
+- 🔭  I’m currently learning **Deep Learning & NLP**
 
-- 📝 I regularly write articles on [https://www.analyticsvidhya.com/blog/author/tarak_ram/](https://www.analyticsvidhya.com/blog/author/tarak_ram/)
+- 🌱 I've completed my Machine Learning Apprenticeship at [Antern](Antern.co)
 
-- 💬 Ask me about **Python, Machine leaning and Data Science**
+
+- 📝 I regularly write articles on [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/author/tarak_ram/) and [Hash Node](https://mlhub.hashnode.dev/a-complete-guide-on-machine-learning-on-mobiles-devices).
+
+- 💬 Ask me about **Machine Learning, Data Science, Python**
 
 - 📫 How to reach me **jujjurutarakram1818@gmail.com**
+
+- 📄 Know More about Me [Linkedin](https://www.linkedin.com/in/tarakram18/)
+- 🤝 Connect me on -  [Instagram](https://www.instagram.com/tarak.__.ram/)
 
 - ⚡ Fun fact **I always ask Questions!**
 
