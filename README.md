@@ -11,7 +11,7 @@
 - 🌱 I've completed my Machine Learning Apprenticeship at [Antern](Antern.co)
 
 
-- 📝 I regularly write articles on [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/author/tarak_ram/) and [Hash Node](https://mlhub.hashnode.dev/a-complete-guide-on-machine-learning-on-mobiles-devices).
+- 📝 I regularly write articles on [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/author/tarak_ram/) and [Tarakram.tech](https://www.tarakram.tech/).
 
 - 💬 Ask me about **Machine Learning, Data Science, Python**
 
