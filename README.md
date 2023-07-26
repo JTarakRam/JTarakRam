@@ -9,7 +9,7 @@
 - 🔭  I’m currently learning **LLMs**
 
 - 🌱 I am Machine Learning Engineer Intern at BHuman AI
-- 
+  
 - 🌱 I've completed my Machine learning Apprenticeship from [Antern](Antern.co)
 
 
