@@ -6,14 +6,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JTarakRam" alt="JTarakRam" /></a> </p>
 
 
-- 🔭  I’m currently learning **Deep Learning & NLP**
+- 🔭  I’m currently learning **LLMs**
 
-- 🌱 I've completed my Machine Learning Apprenticeship at [Antern](Antern.co)
+- 🌱 I am Machine Learning Engineer Intern at BHuman AI
+- 
+- 🌱 I've completed my Machine learning Apprenticeship from [Antern](Antern.co)
 
 
 - 📝 I regularly write articles on [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/author/tarak_ram/) and [Tarakram.tech](https://www.tarakram.tech/).
 
-- 💬 Ask me about **Machine Learning, Data Science, Python**
+- 💬 Ask me about **Machine Learning, AI,Data Science, Python**
 
 - 📫 How to reach me **jujjurutarakram1818@gmail.com**
 
