@@ -1,48 +1,82 @@
-<h1 align="center">Hi 👋, I'm Tarak Ram</h1>
-<h3 align="center">Machine Learning Engineer & Data Scientist</h3>
+<h1 align="center">Hi 👋, I’m Tarak Ram</h1>
+<h3 align="center">
+I build things, learn in public, and follow my curiosity.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JTarakram&label=Profile%20views&color=0e75b6&style=flat" alt="JTarakRam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JTarakRam" alt="JTarakRam" /></a> </p>
-
-
-- 🔭  I’m currently learning **LLMs**
-
-- 🌱 I am Machine Learning Engineer Intern at BHuman AI
-  
-- 🌱 I've completed my Machine learning Apprenticeship from [Antern](Antern.co)
-
-
-- 📝 I regularly write articles on [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/author/tarak_ram/) and [Tarakram.tech](https://www.tarakram.tech/).
-
-- 💬 Ask me about **Machine Learning, AI,Data Science, Python**
-
-- 📫 How to reach me **jujjurutarakram1818@gmail.com**
-
-- 📄 Know More about Me [Linkedin](https://www.linkedin.com/in/tarakram18/)
-- 🤝 Connect me on -  [Instagram](https://www.instagram.com/tarak.__.ram/)
-
-- ⚡ Fun fact **I always ask Questions!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tarakram18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarakram18" height="30" width="40" /></a>
-<a href="https://hashnode.com/@tarakram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tarakram" height="30" width="40" /></a>
-<a href="https://medium.com/@jtarakram6699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jtarakram6699" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@themlhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@themlhub" height="30" width="40" /></a>
+<p align="center">
+I’m here to build real things, ask better questions, and figure life out while shipping.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JTarakRam&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JTarakRam&show_icons=true&locale=en" alt="JTarakRam" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JTarakRam&" alt="JTarakRam" /></p>
+### 🌱 My story (short version)
 
+I started by being curious.  
+That curiosity pulled me into **machine learning**, then into **AI**, and now into **building products**.
 
+Along the way, I realized something important:
 
+> I don’t enjoy just learning things.(I was in a loop for years) 
+> I enjoy **bringing ideas to life** and putting them in front of people.
 
+I learn by doing.  
+I build, break, rethink, and build again.
+
+---
+
+### 🧠 What I care about
+
+- Building useful products, not just demos  
+- AI & automation as leverage, not hype  
+- Mental peace over fake hustle  
+- Long-term thinking over quick wins  
+- Sharing what I learn, honestly and publicly  
+
+---
+
+### 🚀 What I’m doing now
+
+- Founder of **DeleMate** (peer-to-peer delivery)
+- Exploring **AI, LLMs, and agents** through real use cases
+- Writing, thinking, and shipping consistently
+- Turning random ideas into working products
+
+---
+
+### ✍️ I write when I’m learning
+
+- Personal site  
+  https://www.tarakram.com/
+
+I write to think clearly — not to impress.
+
+---
+
+### 💬 You can talk to me about
+
+AI, startups, product thinking, learning in public, curiosity, and building from zero.
+
+---
+
+### 📫 Find me here
+
+- Email: jtarakram6699@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/tarakram18/  
+- Instagram: https://www.instagram.com/tarak.__.ram/
+
+---
+
+### ⚡ One honest fact
+
+I don’t have everything figured out.  
+But I’m consistent, curious, and willing to try — and that’s enough to keep going.
+
+---
+
+<p align="center">
+If you’re building, thinking, or figuring things out too — you’re not alone.
+</p>
