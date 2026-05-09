@@ -1,82 +1,107 @@
-<h1 align="center">Hi 👋, I’m Tarak Ram</h1>
-<h3 align="center">
-I build things, learn in public, and follow my curiosity.
-</h3>
+# Hi there, I’m Tarak Ram 👋
 
-<p align="center">
-I’m here to build real things, ask better questions, and figure life out while shipping.
-</p>
+I build products, learn in public, and follow my curiosity.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JTarakRam&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+Right now, I’m focused on turning ideas into real products that people actually use — while figuring life out one project at a time.
 
 ---
 
-### 🌱 My story (short version)
+## About Me
 
-I started by being curious.  
-That curiosity pulled me into **machine learning**, then into **AI**, and now into **building products**.
+I started with curiosity.
 
-Along the way, I realized something important:
+That curiosity pulled me into machine learning, then AI, and eventually product building.
 
-> I don’t enjoy just learning things.(I was in a loop for years) 
-> I enjoy **bringing ideas to life** and putting them in front of people.
+Somewhere along the way, I realized I didn’t enjoy endlessly consuming information.  
+I enjoyed creating things.
 
-I learn by doing.  
-I build, break, rethink, and build again.
+I learn best by building:
+- Build
+- Break
+- Rethink
+- Improve
+- Repeat
 
----
-
-### 🧠 What I care about
-
-- Building useful products, not just demos  
-- AI & automation as leverage, not hype  
-- Mental peace over fake hustle  
-- Long-term thinking over quick wins  
-- Sharing what I learn, honestly and publicly  
+That process taught me more than any course ever could.
 
 ---
 
-### 🚀 What I’m doing now
+## What I Care About
 
-- Founder of **DeleMate** (peer-to-peer delivery)
-- Exploring **AI, LLMs, and agents** through real use cases
-- Writing, thinking, and shipping consistently
-- Turning random ideas into working products
-
----
-
-### ✍️ I write when I’m learning
-
-- Personal site  
-  https://www.tarakram.com/
-
-I write to think clearly — not to impress.
+- Building useful products, not just flashy demos
+- AI and automation as tools for leverage, not hype
+- Long-term thinking over short-term attention
+- Simplicity over unnecessary complexity
+- Sharing what I learn honestly and publicly
+- Staying curious without pretending to know everything
 
 ---
 
-### 💬 You can talk to me about
+## What I’m Working On
 
-AI, startups, product thinking, learning in public, curiosity, and building from zero.
+### Founder of DeleMate
+A peer-to-peer delivery platform that helps travelers deliver parcels faster and more affordably.
 
----
+### Exploring AI & LLMs
+I enjoy experimenting with AI agents, automation workflows, and practical real-world use cases.
 
-### 📫 Find me here
+### Building in Public
+Writing, shipping, learning, improving — consistently.
 
-- Email: jtarakram6699@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/tarakram18/  
-- Instagram: https://www.instagram.com/tarak.__.ram/
-
----
-
-### ⚡ One honest fact
-
-I don’t have everything figured out.  
-But I’m consistent, curious, and willing to try — and that’s enough to keep going.
+### Turning Ideas Into Reality
+Most ideas stay ideas.  
+I like giving them a chance to exist.
 
 ---
 
-<p align="center">
-If you’re building, thinking, or figuring things out too — you’re not alone.
-</p>
+## My Philosophy
+
+I don’t believe in fake hustle culture.
+
+I believe in:
+- meaningful work
+- calm thinking
+- consistency
+- curiosity
+- and building things that genuinely help people
+
+You don’t need to have everything figured out to start.
+
+---
+
+## Writing & Thoughts
+
+I write to think clearly, document lessons, and share the journey.
+
+🌐 Website: [tarakram.com](https://www.tarakram.com/)
+
+---
+
+## Ask Me About
+
+- AI & Automation
+- Startups
+- Product Thinking
+- Building from Zero
+- Learning in Public
+- Curiosity-Driven Projects
+
+---
+
+## Connect With Me
+
+- 📧 Email: jtarakram6699@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/tarakram18](https://www.linkedin.com/in/tarakram18/)
+- 📷 Instagram: [@tarakram.ai](https://www.instagram.com/tarakram.ai/)
+
+---
+
+## One Honest Fact
+
+I don’t have everything figured out.
+
+But I stay curious, keep building, and continue showing up.
+
+And for now, that’s enough.
+
+If you're building something, learning something, or simply trying to figure things out too — you're not alone.
