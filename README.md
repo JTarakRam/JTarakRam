@@ -1,20 +1,25 @@
-Hey, I'm Tarak Ram.
-I follow curiosity and turn it into things people can actually use.
+# Hey, I'm Tarak Ram.
 
-I started with machine learning, drifted into AI, and landed on product building.
-Turns out I don't enjoy just consuming — I enjoy creating.
+I follow curiosity and turn it into things people can actually use. 
 
-I'm building DeleMate, a Multi batching, route optimised delivery platform that helps SMEs send orders faster and more reliably than traditional courier services.
+I started with machine learning, drifted into AI, and eventually found myself building products.
 
-Outside of that, I'm deep into AI agents and automation — figuring out what's actually useful versus what's just hype.
+Today, I'm building DeleMate — a Multi-Batching, route-optimized delivery platform helping SMEs deliver faster and more efficiently.
 
-If you're curious, check out [Tarakram.com](https://www.tarakram.com/).
+Outside of that, I'm exploring Scientific breakthroughs, AI and building products that solves real problems.
 
-**How I think**
+If you're curious, visit [Tarakram.com](https://www.tarakram.com/).
 
-* Build what is useful to the customer.
-* If I'm not proud recommending the product to my family & friends, it's not worth building.
-* Shipping > watching tutorials.
-* Curiosity is the only prerequisite.
-* Simplicity beats clever, almost always.
+### How I think
 
+- Build what's genuinely useful to the customer.
+- If I wouldn't recommend it to my family & friends, it's not worthy.
+- Shipping > watching tutorials.
+- Curiosity is the only prerequisite.
+- Simplicity almost always wins.
+
+### Beyond work
+
+I read a lot, think even more, and spend countless nights building or exploring new ideas.
+
+I enjoy quiet places, solo travel, long walks, and meaningful conversations. I'm slow to trust people, but deeply loyal once I do.
