@@ -14,7 +14,7 @@ If you're curious, visit [Tarakram.com](https://www.tarakram.com/).
 
 - Build what's genuinely useful to the customer.
 - If I wouldn't recommend it to my family & friends, it's not worthy.
-- Shipping > watching tutorials.
+- Building > watching tutorials.
 - Curiosity is the only prerequisite.
 - Simplicity almost always wins.
 
